@@ -1,6 +1,6 @@
-# SJCC-Payroll-Accural
--wrote C++ programs to help facilitate payroll accrual journal entries for the community college's fiscal service 
+# Data-Reorganization
+-wrote C++ programs to rearrange and reorganize data on a Microsoft Excel sheet
 
--improved its efficiency by automating the process
+-reduced the workload from 5 hours to 30 minutes for 570 cells of data
 
 -written and tested in Visual Studios
