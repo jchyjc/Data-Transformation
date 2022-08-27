@@ -1,5 +1,8 @@
-# Data-Reorganization
--reorganizing data
--wrote C++ programs to rearrange and reorganize data on a Microsoft Excel sheet
--reduced the workload from 5 hours to 30 minutes for 570 cells of data
+# Excel-Sheet-Data-Reorganization
+-repeating and reorganizing data on Excel Sheets manually is very tedious and tiring
+
+-wrote a C++ program to repeat every data on an Excel sheet a certain number of times and another one to move all of the data into one column
+
+-reduced the workload for 570 cells of data from 5 hours to 30 minutes 
+
 -written and tested in Visual Studios
