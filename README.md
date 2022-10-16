@@ -1,6 +1,4 @@
 # Data Transformation Project
--worked on a project that streamlines the data process of raw data and transform them into the desired format in an Excel Sheet
-
--reduced the data processing time from 1 day to 1 hour
-
--implemented in C++ and tested on Visual Studios
+•	Streamlined the data transformation process that collects massive amount of raw data, reclassify and convert them into a desired format that accounting staff may use for financial analysis 
+•	Programming Language: C++ 
+•	Result: 10x performance improvement enables one week’s manual process task to be completed in less than a day
