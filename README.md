@@ -1,6 +1,4 @@
 # Data Transformation Project
-•	Streamlined the data transformation process that collects massive amount of raw data, reclassify and convert them into a desired format that accounting staff may use for financial analysis 
+•	Developed a C++ program that streamlined the data transformation process by collecting and reclassifying large amounts of raw data and converting it into a desired format
 
-•	Programming Language: C++ 
-
-•	Result: 10x performance improvement enables one week’s manual process task to be completed in less than a day
+•	Improved performance by 10 times, enabling a task that previously took one week to complete manually to be finished in less than a day
